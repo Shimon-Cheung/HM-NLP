@@ -153,5 +153,7 @@ dmypy.json
 cython_debug/
 # 忽略data文件夹,里面都放的是模型和训练数据集
 data/
+runs/
+
 
 
