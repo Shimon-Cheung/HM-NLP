@@ -1,0 +1,3 @@
+torch==2.1.1
+numpy==1.26.2
+jupyter==1.0.0
